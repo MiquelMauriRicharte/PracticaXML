@@ -1,0 +1,47 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<equipo>
+    <nombre>Real Madrid</nombre>
+    <entrenador>Carlo Ancelotti</entrenador>
+    <jugadores>
+        <jugador id="01">
+            <nombre>Courtois</nombre>
+            <origen>Bree</origen>
+            <fechaNacimiento>11/05/1992</fechaNacimiento>
+            <altura>2.00m</altura>
+            <peso>96Kg</peso>
+            <demarcacion>Portero</demarcacion>       
+        </jugador>
+        <jugador id="02">
+            <nombre>Carvajal</nombre>
+            <origen>Leganes</origen>
+            <fechaNacimiento>11/01/1992</fechaNacimiento>
+            <altura>1.73m</altura>
+            <peso>73.5Kg</peso> 
+            <demarcacion>Defensa</demarcacion>          
+        </jugador>
+        <jugador id="03">
+            <nombre>Vallejo</nombre>
+            <origen>Zaragoza</origen>
+            <fechaNacimiento>05/01/1997</fechaNacimiento>
+            <altura>1.83m</altura>
+            <peso>79Kg</peso>  
+            <demarcacion>Defensa</demarcacion>       
+        </jugador>
+        <jugador id="04">
+            <nombre>Kroos</nombre>
+            <origen>Greifswald</origen>
+            <fechaNacimiento>04/01/1990</fechaNacimiento>
+            <altura>1.83m</altura>
+            <peso>76Kg</peso> 
+            <demarcacion>Centrocampista</demarcacion>        
+        </jugador>
+        <jugador id="05">
+            <nombre>Benzema</nombre>
+            <origen>Lyon</origen>
+            <fechaNacimiento>19/12/1987</fechaNacimiento>
+            <altura>1.85m</altura>
+            <peso>81.2Kg</peso>  
+            <demarcacion>Delantero</demarcacion>       
+        </jugador>
+    </jugadores>
+</equipo>
